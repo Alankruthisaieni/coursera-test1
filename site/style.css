@@ -39,9 +39,9 @@ h2{
 }
 @media(min-width: 768px) and (max-width:991px){
 	.col1,.col2{
-		width:45%;
+		width:43%;
 		float: left;
-		margin:30px;	
+		margin:10px;	
 	}
 	.col3{
 		width:94%;
