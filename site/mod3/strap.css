@@ -1,0 +1,25 @@
+#header-nav{
+	background-color:#FFB6C1!important;
+	padding-right:30px;
+}
+#home{
+	font-size:1.4em;
+	padding-left: 10px;
+}
+.dropdown-divider{
+	margin: 0;
+	border:1px solid green;
+}
+#hit{
+	margin-right: 10px;
+}
+.kit,h5{
+	padding:10px;
+}
+#chicken,#beef,#sushi{
+	background-color: #FFA500;
+}
+.chdiv,.bdiv,.sdiv{
+	height:1000px;
+	overflow: hidden;
+}
