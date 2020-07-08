@@ -14,12 +14,19 @@
 	margin-right: 10px;
 }
 .kit,h5{
-	padding:10px;
+	padding:20px;
 }
 #chicken,#beef,#sushi{
 	background-color: #FFA500;
+	padding:20px;
 }
 .chdiv,.bdiv,.sdiv{
-	height:1000px;
-	overflow: auto;
+	height:auto;
+}
+.col-md-4{
+	float:left;
+	margin-bottom:30px;
+}
+#back{
+	text-decoration:none;
 }
